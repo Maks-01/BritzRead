@@ -1,0 +1,6 @@
+// Конфигурация Android
+android {
+    defaultConfig {
+        applicationId "com.max.blitzread"
+    }
+}
